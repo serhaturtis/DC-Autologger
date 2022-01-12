@@ -3,8 +3,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/serhaturtis/DC-Autologger">
-    <img src="outputs/images/front.png" alt="Autologger" width="500">
-    <img src="outputs/pcb/pcb.png" alt="Autologger" width="500">
+    <img src="outputs/images/front.png" alt="Autologger" width="300">
+    <img src="outputs/pcb/pcb.png" alt="Autologger" width="300">
   </a>
 
 <h3 align="center">AUTOLOGGER</h3>
