@@ -10,7 +10,7 @@
 <h3 align="center">AUTOLOGGER</h3>
 
   <p align="center">
-    A data logger board for automobile communications applications.
+    A data logging & control board for automobile communications applications.
   </p>
 </div>
 
