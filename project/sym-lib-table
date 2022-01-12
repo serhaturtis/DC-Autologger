@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name esp32)(type Legacy)(uri C:/Users/SR/Documents/can_wifi/lib/ESP32-footprints-Shem-Lib.lib)(options "")(descr ""))
+)
